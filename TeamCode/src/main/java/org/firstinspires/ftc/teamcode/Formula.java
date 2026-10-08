@@ -1,7 +1,5 @@
 package org.firstinspires.ftc.teamcode;
 
-import static com.pedropathing.math.MathFunctions.clamp;
-
 import com.qualcomm.robotcore.hardware.Gamepad;
 import com.qualcomm.robotcore.hardware.HardwareMap;
 import com.qualcomm.robotcore.hardware.DcMotor;
